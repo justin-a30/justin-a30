@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**justin-a30/justin-a30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋, I'm bobert!
+## Basic
+- Region: Vietnam 🇻🇳
+- Job: none (Grade 9 student)
+- Age: 15
+- Birthday: Feburary 6th, 2010
+## Extras
+- 🔭 I’m currently working on [HyperOS AOD Extension](https://github.com/justin-a30/aod_setup.git) and [Dualboot Helper app](https://github.com/justin-a30/DualbootHelper.git).
+- 🌱 I’m currently learning Java, Python, Kotlin
+- 🤔 I’m looking for help with Python, mostly.
+- 💬 Ask me about Magisk modules, I'm perfectly well with these (not ready yet for deeper knowledge)
+- 📫 How to reach me
+-- [Telegram](t.me/bobert10)
+-- [TikTok](https://www.tiktok.com/@bobert6210)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: you're cool!
