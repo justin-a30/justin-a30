@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm bobert!
 ## Basic
 - Region: Vietnam 🇻🇳
-- Job: none (Grade 9 student)
+- Job: none (Grade 10 student)
 - Age: 15
 - Birthday: Feburary 6th, 2010
 ## Extras
